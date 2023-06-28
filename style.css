@@ -1,5 +1,8 @@
 /* style.css */
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
@@ -16,7 +19,7 @@ body {
   
   button {
     font-size: larger;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Satisfy', cursive;
   }
   
   ul {
